@@ -29,3 +29,5 @@ Adding an image is super easy:
 ````here is a block of code that runs for more than one line here in this spot````
 
 ![Testing an Image](https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg)
+
+Now I would like to add another line here. 
